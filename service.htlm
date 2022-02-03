@@ -15,7 +15,14 @@
 </nav>
 
 <main>
-
+<dl>
+	 <dt>Website Design</dt>
+	 <dd>Whether your needs are large or small,
+		 Trillium can get you on the Web! </dd>
+		 <dt>E-Commerce Solutions</dt>
+		 <dd>Trillium offers quick entry into the e-Commerce
+			 marketplace</dd>
+</dl>
 
 </main>
 <footer>
